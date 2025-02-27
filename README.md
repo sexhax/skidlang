@@ -173,9 +173,11 @@ end
 ```
 This Skidlang program declares two variables x and y, compares them, and prints a message based on the result of the comparison.
 
-##How it Works
+## How it Works
 Lexical Analysis: The Lex function tokenizes the input Skidlang code into commands and arguments.
 Compilation: The Compile function transforms the tokens into Go code.
 Build: The BuildExecutable function compiles the Go code into a binary executable.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## License
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
